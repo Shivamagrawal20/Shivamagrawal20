@@ -14,11 +14,8 @@
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
 </div>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Shivamagrawal20&count_private=true&show_icons=true&theme=radical)  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamagrawal20&show_icons=true&theme=radical)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Shivamagrawal20&count_private=true&show_icons=true&theme=radical)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamagrawal20&show_icons=true&theme=radical)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivamagrawal20&DenverCoder1)](https://git.io/streak-stats)
 
