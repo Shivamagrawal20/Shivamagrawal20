@@ -9,15 +9,47 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... coding is :)
 
-<b> Badges 🪶</b><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+
+
+<div align="center" style="padding: 20px; border: 2px solid #e1e4e8; border-radius: 10px; width: 80%; margin: auto; background-color: #f9f9f9;">
+
+### 🪶 Badges
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="GSSoC Badge" width="100" height="100" />
+    </a>
 </div>
 
-<b>More about me </b>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Shivamagrawal20&count_private=true&show_icons=true&theme=radical)  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamagrawal20&show_icons=true&theme=radical)
+</div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivamagrawal20&DenverCoder1)](https://git.io/streak-stats)
+
+
+<div align="center" style="padding: 20px; border: 2px solid #e1e4e8; border-radius: 10px; width: 90%; margin: auto; background-color: #f9f9f9;">
+
+### 🔥 My GitHub  Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivamagrawal20&count_private=true&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamagrawal20&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+
+
+
+
+
+
+
+<div align="center" style="padding: 20px; border: 2px solid #e1e4e8; border-radius: 10px; width: 80%; margin: auto; background-color: #f9f9f9;">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivamagrawal20&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+
+
+
 
