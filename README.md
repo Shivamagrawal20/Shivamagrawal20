@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shivam Agrawal
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;Data+Science+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=900&height=100&lines=Welcome+to+my+GitHub+Profile!;Data+Science+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
