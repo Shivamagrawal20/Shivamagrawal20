@@ -13,7 +13,7 @@
 - 🔭 **Currently Working On:** Data Science Projects
 - 🌱 **Pursuing:** B.Tech in Computer Science
 - 💡 **Interests:** Data Science, Machine Learning, Web Development
-- 📫 **Connect with me:** [LinkedIn Profile](https://linkedin.com/in/your-profile)
+- 📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/shivam-agrawal-profile/)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** Coding is my passion! 🚀
 
