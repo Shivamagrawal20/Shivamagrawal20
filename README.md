@@ -23,20 +23,40 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nodejs,mongodb,git,github,vscode&theme=dark" />
 </div>
 
-## 📊 GitHub Stats
+## ✨ GitHub Stats & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivamagrawal20&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamagrawal20&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shivamagrawal20&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamagrawal20&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamagrawal20&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="800"/>
+
 </div>
 
-## 🔥 GitHub Streak
+---
+
+### 🏅 Quick Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamagrawal20&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivamagrawal20&theme=radical" width="800"/>
+
 </div>
 
-## 🏆 Achievements
+---
+
+### 🌟 Badges & Achievements
 
 <div align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard">
@@ -55,3 +75,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=600&height=50&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me!" alt="Typing SVG" />
 </div>
+
+
+
+
+
