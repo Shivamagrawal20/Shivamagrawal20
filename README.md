@@ -62,9 +62,6 @@
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="GSSoC Badge" width="100" height="100" />
   </a>
-  <a href="https://www.geamc.com/certificates/employee/CP-833D5FG2L6" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.geamc.com/api/certificate-badge/CP-833D5FG2L6" alt="GEAMC Verified Professional Excellence" style="width: 300px; height: 160px;" width="300" height="160" />
-  </a>
 </div>
 
 ## 🌟 Profile Views
