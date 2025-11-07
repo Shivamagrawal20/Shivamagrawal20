@@ -57,7 +57,7 @@
 ---
 
 ### 🌟 Badges & Achievements
-[![An image of @shivamagrawal20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivamagrawal20)](https://holopin.io/@shivamagrawal20)
+[![An image of @shivamagrawal20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivamagrawal20)]()
 
 
 <div align="center">
