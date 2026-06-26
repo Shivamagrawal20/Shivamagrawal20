@@ -1,5 +1,7 @@
 # Hi, I'm Shivam Agrawal 👋
 
+<!-- Shivam Agrawal | Shivamagrawal20 | Full-Stack Developer | Graphic Designer | MERN Stack Developer | React Developer | Node.js | MongoDB | JavaScript | TypeScript | Open Source Contributor | GLA University | B.Tech Computer Science | Web Developer India | Graphic Designer India | OSCI Contributor | Winter of Code | GSSoC | Canva | Figma | learnershut | portfolio website | Mathura | Uttar Pradesh -->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=700&height=80&lines=Full-Stack+Developer;Graphic+Designer;Open+Source+Contributor;MERN+Stack+%7C+React+%7C+Node.js" alt="Shivam Agrawal - Full-Stack Developer and Graphic Designer" />
 </div>
@@ -8,7 +10,7 @@
 
 ## About me
 
-I'm a Computer Science student at GLA University (B.Tech, 2023–2027) with a dual focus on full-stack web development and graphic design. I build MERN stack applications and design the interfaces that go with them — meaning I can take a product from idea to deployment to polished UI.
+I'm **Shivam Agrawal** (`Shivamagrawal20`), a Computer Science student at GLA University (B.Tech, 2023–2027) based in Mathura, India. I'm a full-stack web developer and graphic designer — I build MERN stack applications and design the interfaces that go with them, taking a product from idea to deployment to polished UI.
 
 I've contributed to open-source projects through OSCI and Winter of Code Social, interned as a web developer at RineX.ai, and volunteered as a graphic designer for InAmigos Foundation where my design work helped raise ₹5,000+ in fundraising.
 
